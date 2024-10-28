@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: 'নতুন নিয়মে কিভাবে আয়কর প্রদান করবেন জেনে নিন এখনই '
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
