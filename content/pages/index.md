@@ -168,7 +168,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/1000021348.jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
