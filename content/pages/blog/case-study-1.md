@@ -1,5 +1,5 @@
 ---
-title: 'নতুন নিয়মে কিভাবে আয়কর প্রদান করবেন জেনে নিন এখনই '
+title: Economical problem
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
