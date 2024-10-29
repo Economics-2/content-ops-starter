@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "Both microeconomics and macroeconomics involve examining economic behavior, but they differ in terms of the scale of the subjects being studied.\n\n\n\n[Microeconomics](https://www.investopedia.com/articles/economics/08/understanding-microeconomics.asp)\_is the field of economics that looks at the economic behaviors of individuals, households, and companies.\_[Macroeconomics](https://www.investopedia.com/terms/m/macroeconomics.asp)\_takes a wider view and looks at the economies on a much larger scale—regional, national, continental, or even global.\_[Microeconomics and macroeconomics](https://www.investopedia.com/ask/answers/difference-between-microeconomics-and-macroeconomics/)\_are both vast areas of study in their own rights.\n\n\n\n"
     actions:
       - label: Get started
         altText: ''
