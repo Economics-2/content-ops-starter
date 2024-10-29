@@ -1,5 +1,5 @@
 ---
-title: অর্থনীতি ১ম পত্র ১ম অধ্যায় সৃজনশীল প্রশ্ন ও উত্তর
+title: Economical problem
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
