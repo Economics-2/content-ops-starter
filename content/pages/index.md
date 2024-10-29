@@ -4,14 +4,11 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: How Do I Differentiate Between Micro and Macro Economics?
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "![](https://www.investopedia.com/thmb/ubbhVja8n83pN0XCxzczihgdVLY=/750x0/filters:no_upscale\\(\\):max_bytes\\(150000\\):strip_icc\\(\\):format\\(webp\\)/3-20-24cdratesfedannouncement-c5d8817e128c4e849986051853df1529.jpg)\n\nBoth microeconomics and macroeconomics involve examining economic behavior, but they differ in terms of the scale of the subjects being studied.\n\n[Microeconomics](https://www.investopedia.com/articles/economics/08/understanding-microeconomics.asp)\_is the field of economics that looks at the economic behaviors of individuals, households, and companies.\_[Macroeconomics](https://www.investopedia.com/terms/m/macroeconomics.asp)\_takes a wider view and looks at the economies on a much larger scale—regional, national, continental, or even global.\_[Microeconomics and macroeconomics](https://www.investopedia.com/ask/answers/difference-between-microeconomics-and-macroeconomics/)\_are both vast areas of study in their own rights.\n\n```\nKEY TAKEAWAYS\n```\n\n```\nMicroeconomics and macroeconomics are two fields of study involving looking at behavior in certain areas of the economy over a period of time.\n```\n\n```\nMicroeconomics is smaller in scale, looking at the behavior of consumers, the supply and demand equation in individual markets, and the hiring and wage-setting practices of individual companies.\n```\n\n```\nMacroeconomics has a broader focus, looking at the impact of fiscal policy, big picture causes of unemployment or inflation, and how government actions impact nationwide economic growth.\n```\n\n\n\nMicroeconomics vs. Macroeconomics\n\nBecause microeconomics focuses on the behavior of small units of the economy, it tends to limit itself to specific and specialized areas of study. This includes the balance of supply and demand in individual markets, the behavior of individual consumers (which is referred to as\_[consumer theory](https://www.investopedia.com/terms/c/consumer-theory.asp)), workforce demand, and how individual companies determine wages for their workforces.\n\n\n\nMacroeconomics has a much broader reach than microeconomics. Prominent areas of research in the field of macroeconomics concern the implications of fiscal policy,\_[locating](https://www.investopedia.com/terms/a/apt.asp)\_the reasons for inflation or unemployment, the implications of government borrowing and economic growth on a nationwide scale. Macroeconomists also examine globalization and global trading patterns and perform comparative studies between different countries in areas such as living standards and economic growth.\n\n\n\nWhile the main difference between the two fields concerns the scale of the subjects under analysis, there are further differences.\n\n## The Evolution of Macroeconomics\n\nMacroeconomics developed as a discipline in its own right in the 1930s when it became apparent that classic economic theory derived from microeconomics was not always directly applicable to nationwide economic behavior. Classic economic theory assumes that economies always return to a state of equilibrium. In essence, this means that if demand for a product increases, the prices for that product get higher and individual companies rise to meet the demand. However, during the Great Depression, there was low output and wide-scale unemployment. Clearly, this did not indicate equilibrium on a macroeconomic scale.\n\n>\n>\n> In response to this,\_\n>\n> [John Maynard Keynes](https://www.investopedia.com/terms/j/john_maynard_keynes.asp)\n>\n> \_published \"The General Theory of Employment, Interest and Money,\" which identified the potential and reasons for a negative output gap over a prolonged period of time on a macroeconomic scale. Keynes' work, along with that of other economists, such as Irving Fisher, played a large role in establishing macroeconomics as a separate field of study.\n\n>\n\n## Special Considerations\n\nWhile there are differential lines between microeconomics and macroeconomics, they are interdependent to a large extent. A prime example of this interdependency is\_[inflation](https://www.investopedia.com/terms/i/inflation.asp). Inflation and its implications for the cost of living are a common focus of investigation in the study of macroeconomics. However, since inflation raises the prices of services and commodities, it can also have acute implications for individual households and companies. Companies may be compelled to raise prices to respond to the increasing amounts that they have to pay for materials and the inflated wages they have to pay to their employees.\n\n\n\n## What Is the Difference Between Microeconomic and Macroeconomic Environment?\n\nIn economics, the term \"macro environment\" refers to the economic conditions that apply to the broader environment. This differs from what is called the \"micro environment,\" which refers to conditions specific to a business, sector, or small region.\n\n\n\n## What Is an Example of Microeconomics?\n\nExamples of microeconomics abound in everyday life. Consider a family of four. They may choose to develop and stick to a monthly budget that allocates money to various spending uses, including groceries, utilities, rent, and car payments. That budget may also include earmarked funds to use on leisure activities, including entertainment, dining out, and travel. Microeconomics would study how and why individuals and families allocate limited resources in the ways that they do.\n\n\n\n## What Is an Example of Macroeconomics?\n\nExamples of macroeconomics are also common. One of the most prominent macreconomic indicators, for instance, is the unemployment rate, a metric that is calculated monthly. This is a measure of the proportion of people who are not employed but actively seeking work. As a macroeconomic indicator, the unemployment hints at how wages may fluctuate, how consumer spending may trend, and even how businesses may perform.\n\n\n\n## The Bottom Line\n\nMicroeconomics and macroeconomics are two important and interlinked fields of study. They differ in focus. While microeconomics examines the economic behavior of individuals, families, and businesses, macroeconomics looks at economies as they operate on a regional, national, or even international scale.\n\nCompete Risk Free with $100,000 in Virtual CashPut your trading skills to the test with our\_[FREE Stock Simulator.](https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsszdxp_oRyV09iohdrzSlej-oaUzTH8_XkbqtEfks8Dt_h418EIbq8vONZwx1WJckguiUVakczLb1Z7LpnQCFGF-tTgxrNNzQ2taAbJhWPS8F6ap6HeMHBEzBxpnJ84UQzyctsvzOklZ__4FOsmcjkKzDxXEX271Cgjpz-jxB-q1U_bIVC0LlO_8-DRVobCT0v1JDOnNRgzx62mRIrNptdew8lbaud4BYlmV28WBFTWJibIoq52Z2oKaPxFNBE_nn2mI9d9iurK5mI9GVtCwJMoAiPc0JcdPIj6PLFTCMTmehkU9QjtQ0KFD9Ao7H_3qoXBQdZgRE_AFtJLHkvuT6Frb45hRd0jBpyLFkP8CxJXl-Mw-vNhoYSCA6gpu7npvPb558xRZc1F3wH2Cb8laKgVVBkXD9bg9SDJjeNfpMy9oUs\\&sai=AMfl-YTOJXVIDSS6pZJzSnYS1Lw_jv1gtP2kOjonBjup6PW6Ad-tlDbgeuyXtTAP19h0tOYt6N6HEMMd-ctabOAVNkGz0xrC_KFWvEqzlfyFWXSwMtfFzm_p9x98J-qXDltY9Q\\&sig=Cg0ArKJSzKwji76N-HsBEAE\\&fbs_aeid=%5Bgw_fbsaeid%5D\\&urlfix=1\\&adurl=http://www.investopedia.com/simulator/?source=dfp-ros-sim\\&subid=dfp-ros-sim)\_Compete with thousands of Investopedia traders and trade your way to the top! Submit trades in a virtual environment before you start risking your own money.\_[Practice trading strategies](https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsszdxp_oRyV09iohdrzSlej-oaUzTH8_XkbqtEfks8Dt_h418EIbq8vONZwx1WJckguiUVakczLb1Z7LpnQCFGF-tTgxrNNzQ2taAbJhWPS8F6ap6HeMHBEzBxpnJ84UQzyctsvzOklZ__4FOsmcjkKzDxXEX271Cgjpz-jxB-q1U_bIVC0LlO_8-DRVobCT0v1JDOnNRgzx62mRIrNptdew8lbaud4BYlmV28WBFTWJibIoq52Z2oKaPxFNBE_nn2mI9d9iurK5mI9GVtCwJMoAiPc0JcdPIj6PLFTCMTmehkU9QjtQ0KFD9Ao7H_3qoXBQdZgRE_AFtJLHkvuT6Frb45hRd0jBpyLFkP8CxJXl-Mw-vNhoYSCA6gpu7npvPb558xRZc1F3wH2Cb8laKgVVBkXD9bg9SDJjeNfpMy9oUs\\&sai=AMfl-YTOJXVIDSS6pZJzSnYS1Lw_jv1gtP2kOjonBjup6PW6Ad-tlDbgeuyXtTAP19h0tOYt6N6HEMMd-ctabOAVNkGz0xrC_KFWvEqzlfyFWXSwMtfFzm_p9x98J-qXDltY9Q\\&sig=Cg0ArKJSzKwji76N-HsBEAE\\&fbs_aeid=%5Bgw_fbsaeid%5D\\&urlfix=1\\&adurl=http://www.investopedia.com/simulator/?source=dfp-ros-sim\\&subid=dfp-ros-sim)\_so that when you're ready to enter the real market, you've had the practice you need.\_[Try our Stock Simulator today >>](https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsszdxp_oRyV09iohdrzSlej-oaUzTH8_XkbqtEfks8Dt_h418EIbq8vONZwx1WJckguiUVakczLb1Z7LpnQCFGF-tTgxrNNzQ2taAbJhWPS8F6ap6HeMHBEzBxpnJ84UQzyctsvzOklZ__4FOsmcjkKzDxXEX271Cgjpz-jxB-q1U_bIVC0LlO_8-DRVobCT0v1JDOnNRgzx62mRIrNptdew8lbaud4BYlmV28WBFTWJibIoq52Z2oKaPxFNBE_nn2mI9d9iurK5mI9GVtCwJMoAiPc0JcdPIj6PLFTCMTmehkU9QjtQ0KFD9Ao7H_3qoXBQdZgRE_AFtJLHkvuT6Frb45hRd0jBpyLFkP8CxJXl-Mw-vNhoYSCA6gpu7npvPb558xRZc1F3wH2Cb8laKgVVBkXD9bg9SDJjeNfpMy9oUs\\&sai=AMfl-YTOJXVIDSS6pZJzSnYS1Lw_jv1gtP2kOjonBjup6PW6Ad-tlDbgeuyXtTAP19h0tOYt6N6HEMMd-ctabOAVNkGz0xrC_KFWvEqzlfyFWXSwMtfFzm_p9x98J-qXDltY9Q\\&sig=Cg0ArKJSzKwji76N-HsBEAE\\&fbs_aeid=%5Bgw_fbsaeid%5D\\&urlfix=1\\&adurl=http://www.investopedia.com/simulator/?source=dfp-ros-sim\\&subid=dfp-ros-sim)\n\n\n\n\n\n"
     actions:
       - label: Get started
         altText: ''
@@ -435,7 +432,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +462,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +522,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +552,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +647,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
