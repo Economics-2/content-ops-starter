@@ -89,12 +89,8 @@ type: PostLayout
 ---
 রিটার্ন কী
 
-আয়কর কর্তৃপক্ষের কাছে একজন করদাতার বার্ষিক আয়, ব্যয় এবং সম্পদের তথ্যাবলী নির্ধারিত ফরমে উপস্থাপন করার মাধ্যম হচ্ছে রিটার্ন। আয়কর আইন অনুযায়ী, স্বাভাবিক ব্যক্তি করদাতার রিটার্নে সব ধরনের আয়ের বিবরণী, বাংলাদেশে এবং বাংলাদেশের বাইরে অবস্থিত সব ধরনের পরিসম্পদ ও দায়ের বিবরণী এবং ক্ষেত্রমতো, জীবনযাপন সংশ্লিষ্ট সব ধরনের ব্যয়ের বিবরণী সংবলিত হবে। জাতীয় রাজস্ব বোর্ড কর্তৃক নির্ধারিত ফরমে রিটার্ন দাখিল করতে হয়।Lorem
+আয়কর কর্তৃপক্ষের কাছে একজন করদাতার বার্ষিক আয়, ব্যয় এবং সম্পদের তথ্যাবলী নির্ধারিত ফরমে উপস্থাপন করার মাধ্যম হচ্ছে রিটার্ন। আয়কর আইন অনুযায়ী, স্বাভাবিক ব্যক্তি করদাতার রিটার্নে সব ধরনের আয়ের বিবরণী, বাংলাদেশে এবং বাংলাদেশের বাইরে অবস্থিত সব ধরনের পরিসম্পদ ও দায়ের বিবরণী এবং ক্ষেত্রমতো, জীবনযাপন সংশ্লিষ্ট সব ধরনের ব্যয়ের বিবরণী সংবলিত হবে। জাতীয় রাজস্ব বোর্ড কর্তৃক নির্ধারিত ফরমে রিটার্ন দাখিল করতে হয়।রিটার্ন কারা দাখিল করবেন
 
-ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
-
-> Etiam facilisis laclacuslaclacususlaclacuslaclacusususlalaclacuslaclacususlaclacuslaclacusususlaclacuslaclacususlaclacuslaclacususususlaclacuslaclacususlaclacuslaclacusususususclacuslaclacususlaclacuslaclacususususususacuslaclacususlaclacuslaclacususususususususlaclacususlaclacuslaclacususususususususlaclacususlaclacuslaclacusususususususususরিটার্ন কারা দাখিল করবেন
->
 > আয়কর রিটার্ন দাখিল করবেন তাদের দুই ভাগে চিহ্নিত করা যায়। যাদের করযোগ্য আয় রয়েছে ও যাদেরকে আবশ্যিকভাবে রিটার্ন দাখিল করতে হবে তারা আয়কর দাখিল করবেন।
 >
 > যেমন-
@@ -137,12 +133,4 @@ ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac 
 >
 > আয়কর কী ও আয়করসীমানতুন আয়কর আইন গত জুন মাস থেকে চালু হয়েছে। দেশের করব্যবস্থা এত দিন ধরে ১৯৮৪ সালের আয়কর অধ্যাদেশ দিয়ে চলেছে। তবে বিভিন্ন সময়ে সেই আয়কর অধ্যাদেশ সংশোধন করা হয়েছে। নতুন আইনে অটোমেশনে জোর দেওয়া হয়েছে। পাশাপাশি রিটার্ন জমা, করপোরেট কর, কর কর্মকর্তাদের ক্ষমতার বিষয়ে পরিবর্তন আনা হয়েছে।
 >
-> করদাতাদের আয়কে কয়টি খাতে ভাগ করা হয়েছেusus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> *By Clara White - VP of Marketing*
-
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-![](/images/img-placeholder.svg)
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+> করদাতাদের আয়কে কয়টি খাতে ভাগ করা হয়েছে
